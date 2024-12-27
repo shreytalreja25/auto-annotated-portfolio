@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/pg-ss.png
   altText: Project image
 ---
 The Sports Portal is a robust web application designed to streamline the management of sports events, nominations, results, and awards within an organization. Built with a modern tech stack leveraging **ASP.NET Core APIs**, **React.js**, and **Microsoft SQL Server**, the portal offers an intuitive interface for administrators and participants alike.
