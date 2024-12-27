@@ -85,6 +85,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: INNOVATION SHOWCASE
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
