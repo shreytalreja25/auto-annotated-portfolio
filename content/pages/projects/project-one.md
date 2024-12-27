@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PowerGrid Sports Portal
 colors: colors-a
-date: '2024-12-15'
+date: '2024-12-16'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
