@@ -46,16 +46,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
