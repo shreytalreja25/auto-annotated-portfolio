@@ -11,7 +11,7 @@ description: >-
   maintaining player profiles.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/pg-ss.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
