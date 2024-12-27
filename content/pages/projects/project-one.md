@@ -5,9 +5,10 @@ colors: colors-a
 date: '2024-12-16'
 client: Powergrid Corporation of India
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A comprehensive sports management portal built to streamline the organization
+  and management of sports activities. This project features a user-friendly
+  interface for scheduling games, managing teams, tracking scores, and
+  maintaining player profiles.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
