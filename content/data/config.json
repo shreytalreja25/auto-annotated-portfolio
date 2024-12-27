@@ -27,6 +27,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/shreytalreja25/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "X",
                 "label": "X",
                 "url": "https://x.com/shreytalreja",
