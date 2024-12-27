@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Engineer. Innovator. Crafting web and AI solutions.
+    title: Shrey Talreja. Engineer. Innovator. Crafting web and AI solutions.
     subtitle: >-
       Designing and delivering impactful digital experiences with innovation,
       precision, and creativity. As a tech consultant and freelance
