@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      A versatile software engineer, digital innovator, and tech consultant with
-      expertise spanning web development, scalable applications, embedded
-      systems, and AI-driven solutions, passionate about creating impactful and
-      efficient digital experiences.
+      engineer, digital innovator, and tech consultant creating impactful,
+      efficient solutions across web and AI systems.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
