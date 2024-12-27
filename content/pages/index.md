@@ -15,8 +15,10 @@ sections:
     backgroundSize: full
     title: Engineer. Innovator. Crafting web and AI solutions.
     subtitle: >-
-      "Designing and delivering impactful digital experiences with innovation,
-      precision, and creativity."
+      Designing and delivering impactful digital experiences with innovation,
+      precision, and creativity. As a tech consultant and freelance
+      professional, I’ve helped numerous clients achieve their goals through
+      tailored web and AI solutions. Let's turn your ideas into reality.
     styles:
       self:
         height: auto
